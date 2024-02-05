@@ -16,14 +16,10 @@ This project implements a command-line Tic-Tac-Toe game in Python. The game allo
 5. Enjoy the Tic-Tac-Toe experience!
 
 ## How to Play
-1. When prompted, choose your preferred level of difficulty: basic, normal, or perfect.
-2. Enter the position where you want to place your mark when it's your turn.
+1. Enter the position where you want to place your mark when it's your turn.(1 to 9)
 3. The computer will make its move based on the selected difficulty level.
 4. Continue taking turns until someone wins or the game ends in a draw.
 5. The game will display the final result: whether 'X' wins, 'O' wins, or it's a draw.
-
-## Contributors
-- [Your Name](https://github.com/yourusername) - Lead Developer
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
